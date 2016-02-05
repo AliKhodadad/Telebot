@@ -211,24 +211,20 @@ function create_config( )
     "banhammer",
     "Boobs",
     "Feedback",
-    "plugins",
     "lock_join",
     "antilink",
     "antitag",
     "gps",
     "auto_leave",
-    "cpu",
-    "calc",
-    "bin",
     "block",
     "tagall",
-    "text",
-    "info",
-    "bot_on_off",
+    "arabic_lock",
     "welcome",
-    "webshot",
     "google",
     "sms",
+    "Debian_service",
+    "sudoers",
+    "add_admin".
     "anti_spam",
     "add_bot",
     "owners",
@@ -238,13 +234,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"و
-    "echo"و
-    "calc"و
-    "nerkh"و
-    "joke"و
-    "danestaniha"
-    "info"
+    "leave_ban"
     },
     sudo_users = {135693512},--Sudo users
     disabled_channels = {},
@@ -261,7 +251,11 @@ function create_config( )
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
 ]],
-  help_text_realm = [[
+    help_text = [[
+bots Help for mods : Plugins
+
+Banhammer :
+
 
 Help For Group دستورای کنترل گروه
 !Kick @UserName or ID 
