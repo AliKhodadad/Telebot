@@ -238,7 +238,13 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"
+    "leave_ban"و
+    "echo"و
+    "calc"و
+    "nerkh"و
+    "joke"و
+    "danestaniha"
+    "info"
     },
     sudo_users = {135693512},--Sudo users
     disabled_channels = {},
